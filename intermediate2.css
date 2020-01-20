@@ -1,0 +1,12 @@
+.container {
+	border: 1px black solid;
+	float: left;
+	padding: 10px;
+	width: 400px;
+	height: 600px;
+}
+
+.gap1 {
+	height: 10px;
+	background-color: black;
+}
