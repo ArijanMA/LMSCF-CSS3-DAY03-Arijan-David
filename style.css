@@ -21,8 +21,13 @@ a {
 }
 
 a:hover {
+	border:  white 1px solid;
+	/*height: 60px;*/
+	text-align: center;
 	background-color: #7B6357;
 	color: white;
 	font-size: 20px;
-	display: inline-block;
+	display: inline-block; 
+	transition: all 0.5s;
 }
+
