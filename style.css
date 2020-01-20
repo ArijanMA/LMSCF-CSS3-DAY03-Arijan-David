@@ -8,8 +8,7 @@ nav {
 ul {
     display: flex;
     justify-content: center;
-    padding-right: 100px;
-    
+   
 }
 
 li {
