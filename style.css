@@ -1,0 +1,29 @@
+nav {
+	height: 60px;
+	background-color: #E6E6E6;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    padding-right: 100px;
+    
+}
+
+li {
+	list-style: none;
+	padding: 20px;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #7B6357;
+	color: white;
+	font-size: 20px;
+	display: inline-block;
+}
